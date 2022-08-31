@@ -160,11 +160,7 @@ footer {
 /* fin de footer */
 
 
-.card-container2{
-  display: flex;
-  justify-content: space-around;
-  height: 50%;
-}
+
 
 .locate {
   text-align: center;
